@@ -12,6 +12,7 @@ Clean and well-commented code
 Perfect for learners who know the theory and want to see how the algorithms work in practice.
 
 Algorithms Included
+
 🔹 Regression
 
     Linear Regression
