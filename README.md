@@ -1,4 +1,4 @@
-🧠 ML Algorithms – Theory to Code (Scikit-Learn)
+🧠 ML Algorithms – Theory to Code (Scikit-Learn, XGBoost)
 
 This repository contains beginner-friendly implementations of essential Machine Learning algorithms using scikit-learn.
 Each notebook includes:
@@ -34,3 +34,7 @@ Algorithms Included
 🔹 Clustering
 
     K-Means Clustering
+
+Purpose of This Repo
+
+To provide simple, clean, and understandable code examples for the most popular ML algorithms — allowing beginners to quickly connect theory → implementation.
