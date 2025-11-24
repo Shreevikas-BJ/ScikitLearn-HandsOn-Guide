@@ -1,2 +1,35 @@
-# ScikitLearn-HandsOn-Guide
-Beginner-friendly scikit-learn machine learning algorithms with clean, well-commented code. Ideal for learners who know the theory and want practical, easy-to-follow implementations. Includes regression, classification, clustering, and boosting models with real datasets.
+🧠 ML Algorithms – Theory to Code (Scikit-Learn)
+
+This repository contains beginner-friendly implementations of essential Machine Learning algorithms using scikit-learn.
+Each notebook includes:
+
+Clean and well-commented code
+1. Simple explanations
+2. Real datasets
+3. Training + inference examples
+4. Visualizations for better understanding
+
+Perfect for learners who know the theory and want to see how the algorithms work in practice.
+
+Algorithms Included
+🔹 Regression
+
+    Linear Regression
+
+🔹 Classification
+
+    Logistic Regression
+
+    K-Nearest Neighbors (KNN)
+
+    Support Vector Machine (SVM)
+
+    Naive Bayes (MultinomialNB)
+
+    Random Forest
+
+    XGBoost
+
+🔹 Clustering
+
+    K-Means Clustering
