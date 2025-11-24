@@ -37,4 +37,4 @@ Algorithms Included
 
 Purpose of This Repo
 
-To provide simple, clean, and understandable code examples for the most popular ML algorithms — allowing beginners to quickly connect theory → implementation.
+To provide simple, clean, and understandable code examples for the most popular ML algorithms, allowing beginners to quickly connect theory → implementation.
